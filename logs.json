@@ -76,7 +76,7 @@
   {"log": "ERROR FreeRTOS OTA update failed"},
   {"log": "ERROR RoboMaker simulation job crashed"},
   {"log": "ERROR Ground Station satellite contact failed"},
-  {"log": "ERROR Space weather forecast accuracy low"}
+  {"log": "ERROR Space weather forecast accuracy low"},
   {"log": "ERROR SSL certificate expired for API endpoint"},
   {"log": "ERROR JWT token validation failed due to signature mismatch"},
   {"log": "ERROR Database deadlock detected during transaction"},
