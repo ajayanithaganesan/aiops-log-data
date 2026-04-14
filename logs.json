@@ -63,7 +63,6 @@
   {"log": "ERROR SageMaker training job stopped due to insufficient memory"},
   {"log": "ERROR Fraud detector rule evaluation timeout"},
   {"log": "ERROR Lookout for Metrics anomaly detection failed"},
-  {"log": "ERROR DevOps Guru insight generation failed"},
   {"log": "ERROR SSL certificate expired for API endpoint"},
   {"log": "ERROR JWT token validation failed due to signature mismatch"},
   {"log": "ERROR Database deadlock detected during transaction"},
